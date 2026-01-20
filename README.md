@@ -48,7 +48,7 @@ Dashboard includes:
 - Top products and regions visualization  
 - Profitability analysis  
 
-📷 *<a[Screenshots of the dashboard are included in the repository.](https://github.com/vamshisangam06/Sales-Analytics-PowerBI/blob/main/Dashboard%20of%20report.png)>dashboard</a>*
+📷 *[Screenshots of the dashboard are included in the repository.](https://github.com/vamshisangam06/Sales-Analytics-PowerBI/blob/main/Dashboard%20of%20report.png)*
 
 ---
 
@@ -85,4 +85,4 @@ College Name:MRCET
 ---
 
 ## 🔗 GitHub Repository
-<a[https://github.com/username/Sales-Analytics-PowerBI](https://github.com/vamshisangam06/Sales-Analytics-PowerBI)>Repository link</a>
+[https://github.com/username/Sales-Analytics-PowerBI](https://github.com/vamshisangam06/Sales-Analytics-PowerBI)
